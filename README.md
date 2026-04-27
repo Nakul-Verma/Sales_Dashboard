@@ -1,4 +1,4 @@
-## 📊 Sales Dashboard Capstone Project (Power BI)
+## 📊 Sales Dashboard Project (Power BI)
 
 This project is about creating a Sales Dashboard that helps us understand our business better. We use Microsoft Power BI to make sense of all the sales data we have. The main goal is to see how our sales are doing check some numbers and make good decisions based on what we see. The Sales Dashboard is made to help companies see what is happening make things work better and find ways to grow.
 
@@ -10,4 +10,4 @@ We did some calculations to figure out important things like how much profit we 
 
 One of the things about this project is that the Sales Dashboard is easy to use and looks professional. This makes it simple for people to understand what is going on and make decisions quickly.
 
-This project shows that we can clean up data make a plan for it do calculations design a good dashboard and tell a story with data. It also shows that we can use Power BI to solve business problems. Overall this Sales Dashboard Capstone Project shows that we are good at analyzing data and making it look good which is great for a career in data analytics and business intelligence.
+This project shows that we can clean up data make a plan for it do calculations design a good dashboard and tell a story with data. It also shows that we can use Power BI to solve business problems. Overall this Sales Dashboard Project shows that we are good at analyzing data and making it look good which is great for a career in data analytics and business intelligence.
